@@ -67,10 +67,10 @@
             </objects>
             <point key="canvasLocation" x="2642" y="-68"/>
         </scene>
-        <!--Answer1 View Controller-->
+        <!--Answer View Controller-->
         <scene sceneID="O3f-IB-ZuS">
             <objects>
-                <viewController id="4Hy-1J-hhg" customClass="Answer1ViewController" customModule="TouchEventOusideBounds" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="4Hy-1J-hhg" customClass="AnswerViewController" customModule="TouchEventOusideBounds" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="yb1-rY-xIY">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -175,7 +175,7 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Anwser 1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ntU-O9-phC">
+                                                <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Anwser" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ntU-O9-phC">
                                                     <rect key="frame" x="20" y="0.0" width="374" height="43.5"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>

@@ -1,5 +1,5 @@
 //
-//  Answer1ViewController.swift
+//  AnswerViewController.swift
 //  TouchEventOusideBounds
 //
 //  Created by Bang Chiang Liao on 2021/11/3.
@@ -16,7 +16,7 @@ class OrangeView: UIView {
     }
 }
 
-class Answer1ViewController: UIViewController {
+class AnswerViewController: UIViewController {
 
     @IBOutlet weak var tapCountLabel: UILabel!
     private var tapCount = 0

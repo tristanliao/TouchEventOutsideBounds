@@ -13,7 +13,7 @@
 		E39566A72732D77E0006B908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E39566A62732D77E0006B908 /* Assets.xcassets */; };
 		E39566AA2732D77E0006B908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39566A82732D77E0006B908 /* LaunchScreen.storyboard */; };
 		E39566B22732D8300006B908 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39566B12732D8300006B908 /* QuestionViewController.swift */; };
-		E39566B42732D8490006B908 /* Answer1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39566B32732D8490006B908 /* Answer1ViewController.swift */; };
+		E39566B42732D8490006B908 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39566B32732D8490006B908 /* AnswerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		E39566A92732D77E0006B908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E39566AB2732D77E0006B908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E39566B12732D8300006B908 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
-		E39566B32732D8490006B908 /* Answer1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer1ViewController.swift; sourceTree = "<group>"; };
+		E39566B32732D8490006B908 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				E395669D2732D77D0006B908 /* AppDelegate.swift */,
 				E395669F2732D77D0006B908 /* SceneDelegate.swift */,
 				E39566B12732D8300006B908 /* QuestionViewController.swift */,
-				E39566B32732D8490006B908 /* Answer1ViewController.swift */,
+				E39566B32732D8490006B908 /* AnswerViewController.swift */,
 				E39566A32732D77D0006B908 /* Main.storyboard */,
 				E39566A62732D77E0006B908 /* Assets.xcassets */,
 				E39566A82732D77E0006B908 /* LaunchScreen.storyboard */,
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E39566B42732D8490006B908 /* Answer1ViewController.swift in Sources */,
+				E39566B42732D8490006B908 /* AnswerViewController.swift in Sources */,
 				E395669E2732D77D0006B908 /* AppDelegate.swift in Sources */,
 				E39566B22732D8300006B908 /* QuestionViewController.swift in Sources */,
 				E39566A02732D77D0006B908 /* SceneDelegate.swift in Sources */,
